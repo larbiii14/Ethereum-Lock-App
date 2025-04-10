@@ -9,7 +9,7 @@ Here’s a professional and polished `README.md` file tailored for your project 
 
 ## 🌐 Live Demo
 
-Visit the live app here: [Ether Lock on Fleek](...)
+Visit the live app here: https://melodic-bird-late.on-fleek.app/
 
 Etherscan (Sepolia): [Contract on Etherscan](https://sepolia.etherscan.io/address/0xc66aef310da790594f24d7226d9dd23cc6130535#code)
 
